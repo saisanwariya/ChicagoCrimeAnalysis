@@ -1,7 +1,4 @@
-# README for Crime Analysis in Chicago City
-
-## Title
-Crime Analysis in Chicago City
+# Crime Analysis in Chicago City
 
 ## Overview
 This project, developed by Sai Sanwariya Narayan, focuses on analyzing crime data in Chicago using PySpark and various Python libraries. The analysis includes data cleaning, aggregation, visualization, and machine learning to predict crime trends and patterns. The project utilizes a range of tools like PySpark, Pandas, NumPy, Plotly, Seaborn, GeoPandas, and scikit-learn.
