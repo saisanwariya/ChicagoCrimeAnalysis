@@ -3,6 +3,13 @@
 ## Overview
 This project, developed by Sai Sanwariya Narayan, focuses on analyzing crime data in Chicago using PySpark and various Python libraries. The analysis includes data cleaning, aggregation, visualization, and machine learning to predict crime trends and patterns. The project utilizes a range of tools like PySpark, Pandas, NumPy, Plotly, Seaborn, GeoPandas, and scikit-learn.
 
+## Links to the Database
+- **2023**: https://data.cityofchicago.org/Public-Safety/Crimes-2023/xguy-4ndq/data_preview
+- **2022**: https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp/about_data
+- **2021**: https://data.cityofchicago.org/Public-Safety/Crimes-2021/dwme-t96c/about_data
+- **2020**: https://data.cityofchicago.org/Public-Safety/Crimes-2020/qzdf-xmn8/about_data
+- **2019**: https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie/about_data
+
 ## Program Functionality
 1. **Data Loading and Cleaning**: Importing multiple years of crime data, merging, and cleaning to remove null values.
 2. **Data Aggregation**: Using MapReduce for aggregating data based on crime type, community areas, and time.
